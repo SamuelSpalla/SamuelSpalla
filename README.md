@@ -1,4 +1,4 @@
-### 
+### Olá! Eu sou o Samuel Spalla, seja bem vindo ao meu perfil
 
 
 - 🌱 Graduando em Engenharia de Software
