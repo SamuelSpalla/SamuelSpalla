@@ -2,9 +2,7 @@
 
 
 - 🌱 Graduando em Engenharia de Software
-- 🌱 Estudando python
 - 🔭 Atualmente faço estágio na área de front-end
-- 🌱 Estudando HTML, CSS, JAVASCRIPT
 - 📫 Contate-me no email: samuelspalla1@gmail.com
 
 <div align="center">
