@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Samuel Spalla, seja bem vindo ao meu perfil
 
 
-- 🌱 Graduando em Engenharia de Software
+- 🌱 Graduando em Engenharia de Software Pela Universidade de Vassouras - Campus Maricá
 - 🔭 Atualmente faço estágio na área de front-end
 - 📫 Contate-me no email: samuelspalla1@gmail.com
 
